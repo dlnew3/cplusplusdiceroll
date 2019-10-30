@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\dlnew\source\repos\Auto Dice Roller\Auto Dice Roller\Source.cpp(64,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dlnew\source\repos\Auto Dice Roller\Auto Dice Roller\Source.cpp(82,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Auto Dice Roller.vcxproj -> C:\Users\dlnew\source\repos\Auto Dice Roller\Debug\Auto Dice Roller.exe
